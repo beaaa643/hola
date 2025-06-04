@@ -1,0 +1,24 @@
+ESTILOS
+(3 formas)
+
+1.- En cada etiqueta (desaconsejado)
+<p style=“ font-size:18px”>Tamaño de la letra</p>
+<p style=“font-family:Arial; font-size:30px”>Estilo de la letra</p>
+<h2 style=“font-family:Calibri; font-size:18px”>Tipo y tamaño del título 2</h2>
+
+2.- En cada página (<head><style>…)
+<head>
+<style>
+body { background:black; color:red; font-family:Verdana; font-size:128px }
+p { color: pink; font-size:48px; text-decoration:underline }
+a { text-decoration:none; color:#ffffff; font-family:Cambria; font-size:48px }
+a:hover { text-decoration:underline; color:#aaaa00; }
+a:active { color:#00ff00; }
+td { color: #00ffaa; font-family:Helvetica; text-align:right; }
+</style>
+</head>
+
+3.- En cascada (CSS): estilo.css
+<head>
+<link rel="stylesheet" href="estilo.css" title="Mi estilo">
+</head>

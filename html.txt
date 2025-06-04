@@ -1,0 +1,76 @@
+
+<html>
+
+<head>
+<title>Mi primera página web</title>
+</head>
+
+<body>
+<center><font size="32xp">BIENVENIDO A LA PÁGINA DE PRUEBA</font></center>
+<br></br>
+<font size="5xp">Hola Valentina!</font>
+<hr></hr>
+<p></p>
+<font face="Arial"size="10xp">Características de la letra</font>
+<p></p>
+<b>Negrita</b>
+<p></p>
+<i>Cursiva</i>
+<p></p>
+<u>Subrayado</u>
+<p></p>
+<sup>Superíndice</sup>
+<p></p>
+<sub>Subíndice</sub>
+<p></p>
+<big>Letra grande</big>
+<p></p>
+<small>Letra pequeña</small>
+<p></p>
+<mark>Texto resaltado</mark>
+<p></p>
+<strike>Tachado</strike>
+<p></p>
+<hr></hr>
+<p></p>
+<font size="30xp">Tamaño de la letra</font>
+<p></p>
+<font size="6xp">Tamaño de la letra</font>
+<p></p>
+<font size="3xp">Tamaño de la letra</font>
+<p></p>
+<font face="Calibrí">Tipo de letra</font>
+<hr></hr>
+<p></p>
+<h1>Título 1</h1>
+<p></p>
+<h2>Título 2</h2>
+<p></p>
+<h3>Título 3</h3>
+<p></p>
+<h4>Título 4</h4>
+<p></p>
+<h5>Título 5</h5>
+<p></p>
+<h6>Título 6</h6>
+<br>Nueva línea</br>
+<hr>Línea</hr>
+<marquee>Texto en movimiento</marquee>
+<p></p>
+<center>Texto centrado</center>
+<p></p>
+<p align="justify">Texto a la izquierda</p>
+<p></p>
+<p align="right">Texto a la derecha</p>
+<p></p>
+<font face="Calibrí">Tipo de letra</font>
+<br></br>
+<br></br>
+<center><font size="20xp">IMÁGENES Y ENLACES</font></center>
+<br></br>
+<font face="Arial"><font size="6xp"><center> Haga click en la imagen o <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.marca.com%2Fotros-deportes%2F2023%2F06%2F06%2F647f1e3446163f967e8b4591.html&psig=AOvVaw1g0NsHeGvuJOYgdbCckQve&ust=1713508622685000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjRxrGuyYUDFQAAAAAdAAAAABAJ"<u>aquí</u></center></a></font></font>
+<p></p>
+<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.marca.com%2Fotros-deportes%2F2023%2F06%2F06%2F647f1e3446163f967e8b4591.html&psig=AOvVaw1g0NsHeGvuJOYgdbCckQve&ust=1713508622685000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjRxrGuyYUDFQAAAAAdAAAAABAJ"><center><img src="voleibol.png"></a></center>
+</body>
+
+</html>

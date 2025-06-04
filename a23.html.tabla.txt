@@ -1,0 +1,140 @@
+<html>
+
+<head>
+<title> Mi primera página web </title> 
+</head>
+
+<body bgcolor=pink>
+<center>
+<table border=0>
+<td><a href="1.html" target="historia de Granada">Pagina 1</a>
+<td><a href="2.html" target="Que visitar en Granada">Pagina 2</a>
+<td><a href="3.html" target="famosos granadinos">Pagina 3</a>
+<td><a href="4.html" target="leyendas de granada">Pagina 4</a>
+
+
+<center><p style="color:F01198"><font size="7"><b>GRANADA</b></font></p></center>
+<center><p style="color:C96AFF"><font size="6"><br><u>Vamos a conocer Granada</u></br></font></p>
+<p style="color:1F2482"><font size="5"><marquee>Historia de Granada</marquee></font></p>
+<font size="3"><b>En 1469, Isabel y Fernando se casaron, uniendo los reinos de Castilla y Aragón. Este matrimonio fue importante porque combinó dos de los territorios más grandes y poderosos de la península ibérica. Aunque seguían siendo dos reinos separados con sus propias leyes y costumbres, este vínculo ayudó a formar una alianza sólida que marcó el camino hacia la creación de una España unificada.</b></font>
+<font size="3"><b>El logro más destacado de su reinado fue el final de la Reconquista, un proceso que había comenzado siglos antes. En 1492, los Reyes Católicos lograron conquistar Granada, el último reino musulmán de la península ibérica. Este evento puso fin a más de 700 años de presencia musulmana en la región.
+Granada, gobernada por el sultán Boabdil, fue asediada durante años por las tropas de Isabel y Fernando. Finalmente, el 2 de enero de 1492, Boabdil entregó las llaves de la ciudad, marcando el fin de la Reconquista. Para los monarcas, esta victoria no solo fue un logro militar, sino también un símbolo de unidad religiosa y territorial.La conquista de Granada permitió a los Reyes Católicos centrarse en nuevas metas, como la exploración y expansión fuera de la península.</b></font>
+<center><img src="reyes.jpg" width=30% title="Reyes Católicos">        <img src="granada.jpg" width=20% title="granada">
+
+
+<p style="color:C96AFF"><font size="6"><br><u> ¿Qué visistar en granada?</u></br></font></p>
+<p style="color:1F2482"><font size="5"><b>1.La alhambra</font></p>
+<font size="3">Patrimonio de la Humanidad por la Unesco desde 1984 y con Sierra Nevada como telón de  fondo, La Alhambra y el Generalife de Granada conforman la ciudad musulmana amurallada mejor conservada del mundo. Una fortaleza con palacios e impresionantes jardines  que guarda en cada rincón el lujo y el gusto de los monarcas nazarís. Es una de las obras más impresionantes del patrimonio histórico y artístico español por su extraordinaria belleza y su riqueza. Eso sí, conviene comprar la entrada con antelación, pues estamos ante uno de los monumentos más visitados del mundo, con más de 3,5 millones de personas al año.
+<center><img src="alhambra.jpg" width=30% title="La Alhambra"> 
+<p style="color:1F2482"><font size="5"><b>2. Palacio de Carlos V</font></p>
+<font size="3">En tu visita a La Alhambra debes reservar un poco tiempo para admirar sin prisas el Palacio de Carlos V, mandado construir por el emperador en esta ubicación para disfrutar de la belleza de la fortaleza roja. Según se cuenta, el monarca quedó prendado de La Alhambra después de pasar allí algunos meses con su mujer Isabel de Portugal tras los esponsales de 1526. Le gustó tanto que pidió un palacio a su lado. El encargado del proyecto fue el arquitecto Pedro Machuca, pero la finalización de la construcción se demoró tanto tiempo por problemas múltiples que pasaron siglos (hasta 1930) hasta que se diese por concluido.
+<center><img src="palacio.jpg" width=40% title="Palacio de Carlos V"> 
+<p style="color:1F2482"><font size="5"><b>3. Mirador de San Nicolás</font></p>
+<font size="3">El Mirador de San Nicolás es, posiblemente, el más famoso de Granada por sus espectaculares vistas hacia la Alhambra y a Sierra Nevada. Dicen que Bil Clinton lo visitó en 1997 y dijo que aquí vio “la puesta de sol más bonita del mundo”. Está en pleno barrio del Albaicín, que con su maraña de calles adoquinadas, sus subidas y bajadas y sus bares de tapas añaden un encanto especial a la estampa.
+<center><img src="san nicolas.jpg" width=30% title="Mirador de San Nicolás"> 
+<p style="color:1F2482"><font size="5"><b>4.Catedral de Granada</font></p>
+<font size="3">Es una de las obras cumbre del Renacimiento español. Construida en 1505 por orden de Isabel la Católica, la catedral de Granada o catedral de la Encarnación conserva en su interior la famosa “Inmaculada” de Alonso Cano y un magnífico retablo. Destaca especialmente la imponente Capilla Mayor. Las naves laterales se cierran con numerosas capillas de diferentes estilos y épocas. Uno de sus arquitectos fue Diego de Siloé.
+<center><img src="catedral.jpg" width=30% title="Catedral Granada"> 
+<p style="color:1F2482"><font size="5"><b>5.La Capilla Real de Granada</font></p>
+<font size="3">Esta capilla tiene nada menos que 500 años de Historia, ya que fue mandada construir, en estilo gótico, por los mismísimos Reyes Católicos para que sus restos mortales reposaran aquí. Se edificó entre los años 1505 y 1517 está dedicada a los Santos Juanes, el Bautista y el Evangelista. Un año antes de comenzar la Capilla Real, murió la Reina Isabel y el Rey Fernando, un año antes de finalizar las obras, por lo que hubo que enterrar a los reyes provisionalmente en el Convento de San Francisco de la Alhambra, antes de su traslado a la Capilla Real. En la Sacristía-Museo, se expone el rico legado patrimonial de los Reyes Católicos (orfebrería, tejidos, libros, tablas flamencas…) y una importante colección de pintura religiosa del Cuatrocientos. Hay visitas durante todos los días del año, excepto en horario de culto y cuando hay celebraciones religiosas.
+<center><img src="capilla real.jpg" width=30% title="Capilla Real de Granada"> 
+<p style="color:1F2482"><font size="5"><b>6.Paseo de los Tristes</font></p>
+<font size="3">Es una de las vías más románticas y bohemias de Granada. El paseo de los Tristes, cuyo nombre oficial es Padre Manjón, sigue el curso del río Darro entre los puentes árabes de las Chirimías y del Aljibillo. Su nombre procede de los cortejos fúnebres que se encaminaban por esta calle hacia el cementerio de San José, en la colina de la Sabika. Este paseo, escenario de muchas fiestas y juegos populares, está siempre animado y permite calibrar la esencia de la ciudad.
+<center><img src="paseo de los tristes.jpg" width=30% title="paseo de los tristes"> 
+<p style="color:1F2482"><font size="5"><b>7.Barrio del Albaicín de Granada</font></p>
+<font size="3">Considerado uno de los lugares con más encanto y belleza de Granada, el barrio del Albaicín guarda la esencia de todas las épocas históricas de la ciudad, desde los fenicios hasta los árabes, pasando por los romanos, cartagineses o visigodos. Es el barrio con más solera de la ciudad. Paseando por sus callejuelas estrechas y encantadoras, y contemplando sus fuentes y monumentos podrás comprender por qué fue declarado Patrimonio de la Humanidad por la Unesco en 1984. Si hay algo obligatorio que hacer en Granada, es perderse por este barrio
+<center><img src="albaicin.jpc.jpg" width=30% title="albaicin"> 
+<p style="color:1F2482"><font size="5"><b>8.Sacromonte de Granada</font></p>
+<font size="3">Conocido mundialmente por sus cuevas en las que se conserva el duende flamenco en estado puro, el barrio del Sacromonte de Granada es la morada de la cultura gitana y su folclore. Forma parte de las seis barriadas que conforman el distrito de Albaicín, concretamente en la zona de Valparaíso y justo frente a la Alhambra. Las vistas desde el Sacromonte son impresionantes pero hay que saber que este pintoresco barrio permite hacer un viaje en el tiempo hasta la época de los árabes, los judíos y los primeros gitanos que se asentaron allí y que hicieron de este barrio el territorio de su cultura.
+<center><img src="sacromonte.jpg" width=30% title="sacromonte"> 
+
+<p style="color:C96AFF"><font size="6"><br><u>Famosos granadinos</u></br></font></p>
+<p style="color:1F2482"><font size="5"><b>Federico Gacía Lorca</font></p>
+<font size="3">Es uno de los personajes más internacionales reconocidos de toda España. Poeta nacido en Granada y miembro de la conocida Generación del 27. Considerado uno de los dramaturgos y escritores más populares de la literatura española. Su historia y vida acabaron con su fusilamiento después del golpe de Estado. Día en el que su obra quedó inacabada. Es uno de los granadinos ilustres más importantes de la historia.
+<p style="color:1F2482"><font size="5"><b>Alonso Cano</font></p>
+<font size="3">Dejando a un lado los ilustres personajes de la literatura española, pasamos a hablarte de figuras como los pintores y músicos granadinos.
+Uno de los escultores y arquitectos más reconocidos de Granada fue Alonso Cano. Un gran personaje influyente de la corriente barroca en España. Artista que fundó la Escuela de pintura y escultura de Granada.
+<p style="color:1F2482"><font size="5"><b>Enrique Morente</font></p>
+<font size="3">Nacido en Granada, Enrique Morente, es uno de los grandes cantantes famosos de flamenco españoles. Puedes apreciarlo en la variedad de discos que lanzó con su música clásica, con toques modernos y renovadores del flamenco. Este famoso ha servido de modelo para muchos talentos del flamenco, incluso en la figura de su propia hija. Además, también recibió el premio Nacional de Música.
+<p style="color:1F2482"><font size="5"><b>Rosa López</font></p>
+<font size="3">Fue conocida por ganar el Talent Show de TVE «Operación Triunfo» y representando a España en el festival de Eurovisión , con la canción ««Europe’s living a celebration», que conseguiría el puesto numero 1 de los 40 principales. 
+<p style="color:1F2482"><font size="5"><b>Miguel Rios</font></p>
+<font size="3">Miguel Rios nació en Granada un 7 de Junio de 1944, es un cantautor pionero de España.
+En 1969, graba el «Himno de la alegria», una adaptación d ella novena sinfonía de Beethoven Otro tema famoso de su carrera es «Bienvenidos» de 1982.Por su carrera, tiene numerosos premios como Doctor Honoris Causa por la Universidad de Granada en 2016 o Latin Grammy Awards a la excelencia y reconocimiento de su carrera en 2013.
+<p style="color:1F2482"><font size="5"><b>Mariana Pineda</font></p>
+<font size="3">Mariana Pineda nació en el año 1804 en la famosa Carrera del Darro de Granada.Representa el espíritu de las luchas que se libraron antes del restablecimiento de las libertades y derechos. Principalmente decidió ayudar a esconder en su casa a aquellos que eran perseguidos y amenazados de muerte por su oposición al regimen instaurado por Fernando VII durante la conocida como Década Ominosa.
+<p style="color:1F2482"><font size="5"><b>Francisco Ayala</font></p>
+<font size="3">Francisco Ayala fue uno de los escritores más importantes y reconocidos del siglo XX. En su obra destaca la novela, los relatos y el ensayo, aunque también ejerció como traductor de importantes creaciones literarias.
+<p style="color:1F2482"><font size="5"><b>Ángel Ganivet</font></p>
+<font size="3">El 13 de diciembre de 1865 nace en Granada el escritor Ángel Ganivet. Llegado de una familia de clase media, Ángel Ganivet estudió en Madrid donde se licenció en Derecho, y Filosofía y Letras. El escritor trabajó en la biblioteca del Ministerio de Fomento en Madrid donde conoció a otros autores prestigiosos de la época como Miguel de Unamuno.
+
+<table border=2 width=80%>
+<tr>
+<th width=15%>cantantes 
+<th width=15%>definicion
+<th width=15%>escritores
+<th width=15%>definicion
+<th width=15%>pintores
+<th width=15%>definicion
+
+<tr>
+<td>Miguel Rios  
+<td>Enrique Morente 
+<td>Estrella Morente 
+<td>Juan Pinilla
+<td>Antonio Carmona
+<td>Rosa López
+<tr>
+<td>Miguel Ríos (Granada, 1944), cantante y compositor de rock muy querido y admirado en España y Latinoamérica, fue pionero y referente de este género musical 
+<td>Enrique Morente nació en el barrio de Albaicín, Granada en 1942. De pequeño ejerció como seise en la Catedral de Granada y comenzó a interesarse por el ambiente flamenco en las reuniones familiares y vecinales. Aprendió así las bases de este arte, especialmente de mano de Aurelio Sellés (Aurelio de Cádiz). 
+<td>Estrella de la Aurora Morente Carbonell (Granada, 14 de agosto de 1980) es una cantaora española de flamenco. Estrella participó en Omega, disco de su padre Enrique Morente. Carmen Linares la amadrinó en el Teatro de la Maestranza de Sevilla en un homenaje a la Argentinita. Su primer disco, «Mi cante y un poema» de canciones flamencas fue disco de platino y el segundo, “Calle del aire” de canciones populares y navideñas, lo fue de oro.
+<td>Juan Pinilla Martín (Huétor Tájar, Granada, 2 de enero de 1981) es un cantaor de flamenco, escritor, actor, traductor y columnista. En agosto de 2007 ganó el Festival del Cante de las Minas, con el premio Lámpara Minera 2007,? considerado el galardón flamenco más importante de la actualidad.
+<td>Antonio Carmona Amaya (Granada, 21 de mayo de 1965) es un cantante gitano de flamenco español. Es miembro del grupo musical español de flamenco-fusión Ketama junto a su hermano, Juan José Carmona Amaya "El Camborio" (1960), y su primo, José Miguel Carmona Niño "Josemi" (1971)
+<td>Rosa María López Cortés (14 de enero de 1981), conocida como Rosa López, es una cantante española de diversos géneros musicales. En la década de 2000 adquirió fama como artista al ganar la primera edición de Operación Triunfo,3? donde le dieron el apodo de «Rosa de España».
+<tr>
+<td>Federico Garcia Lorca   
+<td>Pedro de Alarcón 
+<td>Elena Martin Vivaldi
+<td>Diego Hurtado Mendoza 
+<td>Angel Ganivet
+<td>Felipe Romero 
+<tr>
+<td>Poeta y dramaturgo español, adscrito a la generación del 27. Desde pequeño entra en contacto con las artes a través de la música y el dibujo. En 1915 comienza a estudiar Filosofía y Letras, así como Derecho, en la Universidad de Granada.   
+<td>fue un narrador español y miembro destacado del movimiento realista. Abandonó la carrera de derecho en la Universidad de Granada para dedicarse a la eclesiástica, pero no le convenció y acabó dedicándose al periodismo.
+<td>Elena Martín Vivaldi (Granada, 8 de febrero de 1907- 9 de marzo de 1998) fue una poetisa española del siglo xx.Por expreso deseo de la poetisa, su fondo bibliográfico debía ser para la Universidad de Granada y los documentos y manuscritos autógrafos de sus obras pasarían a la Fundación Jorge Guillén donde, una vez digitalizados, podrían ser consultados en la página web de esta institución.
+<td> fue el primero de los poetas españoles modernos en desarrollar los epigramas de la Antología griega; el primero en componer una fábula mitológica en octavas y de los primeros en escribir epístolas (supuestamente horacianas) en tercetos encadenados. 
+<td>fue un escritor y diplomático español. Es considerado por algunos autores un precursor de la generación del 98 y por otros, un miembro de pleno derecho de esta.
+<td>Abogado laboralista y escritor. Nació en 1930 y murió en agosto de 1998.Su novela El segundo hijo del mercader de seda es una obra de culto, un éxito de venta, pese a ser hasta su publicación un escritor totalmente desconocido desconocido. Su segunda novela, El mar de bronce, fue publicada postumamente. A su muerte la dejó prácticamente acabada.
+<tr>
+<td>Rafael Revelles
+<td>José Risueño 
+<td>Manuel Rivera Hernández
+<td>José María Rodríguez-Acosta
+<td>Benito Rodríguez Blanes
+<td>Antonio Rodríguez Valdivieso
+<tr>
+<td>Rafael Revelles
+<td>José Risueño 
+<td>Manuel Rivera Hernández
+<td>José María Rodríguez-Acosta
+<td>Benito Rodríguez Blanes
+<td>Antonio Rodríguez Valdivieso
+
+
+<p style="color:C96AFF"><font size="6"><br><u>Leyendas de granada</u></br></font></p>
+<p style="color:1F2482"><font size="5"><b>Leyenda de la Campana de la Vela</font></p>
+<font size="3">Esta es una de esas leyendas que, a día de hoy, sigue viva. Cada 2 de enero, en la Alhambra, se celebra el Día de la Toma en el que se conmemora el día en que los Reyes Católicos obtuvieron las llaves de la ciudad de Granada.
+Según cuenta la leyenda y la tradición, la muchacha soltera que toque la Campana más alta de la Torre de la Vela, ese mismo año, encontrará marido y se casarán. Así que ya sabes, si estás soltera, estás en Granada el 2 de enero y te gustaría encontrar al amor de tu vida, lucha por ser la que primero toque la campana.</font>
+<center><img src="campana.jpg" width=20% title="Campana">
+<p style="color:1F2482"><font size="5"><b>La Leyenda del Suspiro del Moro</font></p>
+<font size="3">Allá por el año 1492, cuenta la leyenda que el último rey árabe se rindió sin luchar ante la conquista de los Reyes Católicos, quienes desterraron a Boabdil fuera de la ciudad. Se dice que en su exilio a las Alpujarras, Boabdil ni siquiera se atrevía a girar la cabeza pero que cuando ya estaba lejos, se paró en una colina y tras un gran suspiro comenzó a llorar al ver todo lo que había perdido. Leyenda o realidad, esa es la historia por la que precisamente esa colina es conocida actualmente como el Suspiro del Moro. 
+<center><img src="moro.jpg" width=20% title="colina del moro">
+<p style="color:1F2482"><font size="5"><b>Leyenda de La Puerta de la Justicia</font></p>
+<font size="3">Siempre se ha dicho que la resistencia de la Alhambra es fruto de un sistema de construcción meticuloso y siguiendo patrones arquitectónicos avanzados de épocas pasadas. Sin embargo, aunque la historia de la edificación del monumento está basada en hechos reales, La Alhambra también está repleta de leyendas o historias por descubrir como la de la Puerta de la Justicia. Y es que se cuenta que tal era la belleza y magnificencia de esta entrada que estaba diseñada para que ningún caballero en caballo pudiera tocar con su lanza la punta de la mano esculpida en el arco. Además, se dice que quien lo consiguiera tenía garantizada la conquista del trono de La Alhambra.
+ <center><img src="puerta.jpg" width=20% title="puerta">
+
+
+
+</body>
+<center>
+</html>
